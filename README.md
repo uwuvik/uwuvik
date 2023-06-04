@@ -1,1 +1,1 @@
-vik luvs u
+vik is kool
