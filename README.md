@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm vik</h1>
 <h3 align="center">I'm cool</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/972533899462836334/1075781610387034122/pfps-bI3Ibu.gif">
 
 - i like pizza
 
