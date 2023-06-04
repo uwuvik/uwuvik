@@ -1,4 +1,4 @@
-<img align="center" alt="coder" width="600" src="https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif">
+<img align="center" alt="coder" width="1200" src="https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif">
 <h1 align="center">Hi I'm vik</h1>
 <h3 align="center">I'm cool</h3>
 
