@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif">
 
-- Working on **Nothing**
+- i like pizza
 
 <h3 align="left">Socials:</h3>
 <p align="left">
