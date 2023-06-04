@@ -1,4 +1,4 @@
-<img align="center" alt="coder" width="1200" hight="10" src="https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif">
+<img align="center" alt="coder" width="1200" src="https://cdn.discordapp.com/attachments/972533899462836334/1082991775733514322/a_f8535284c033c6559c547ee18e99552f.gif">
 <h1 align="center">Hi I'm vik</h1>
 <h3 align="center">I'm cool</h3>
 
@@ -13,4 +13,4 @@
 
 <h3 align="left">Stuff:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gi
+
