@@ -1,8 +1,8 @@
-<img align="center" alt="coder" width="1200" src="https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif">
+<img align="center" alt="coder" width="1200" src="[https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif](https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif)">
 <h1 align="center">Hi I'm vik</h1>
 <h3 align="center">I'm cool</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif">
+<img align="right" alt="coding" width="400" src="[https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif](https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif)">
 
 - i like pizza
 
